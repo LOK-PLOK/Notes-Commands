@@ -1,1 +1,6 @@
-### This repo is a compilation of notes, and commands that I deemed necessary throught my days in college
+## This repo is a compilation of random notes, and commands
+
+### Resources:
+  - [Universirt of Toronto Coders](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/)
+  - [Git-cheat-sheet-education](https://education.github.com/git-cheat-sheet-education.pdf)
+  - [Fullstack Open Course](https://fullstackopen.com/)
