@@ -55,7 +55,7 @@ npm run dev
 ```
 
 #### HTTP verbs:
-![[Pasted image 20240920213016.png]]
+![HTTP REQUES](https://github.com/LOK-PLOK/Notes-Commands/blob/main/Notes%20in%20Full%20Stack%20Open/Part%203/Node.js%20and%20Express/Pasted%20image%2020240920213016.png)
 
 ### Full code:
 
